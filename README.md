@@ -7,7 +7,7 @@ CS & AI student in Egypt, focused on **machine learning and computer vision**. A
 - **AMAN (Food Price Intelligence)**: an end-to-end ML platform that audits and forecasts food prices across 23 Egyptian governorates, with a bilingual Streamlit dashboard. Built as an NTI capstone with a team.
   [Repo](https://github.com/studentabdo83-lab/aman-food-price-intelligence-v2) | [Live demo](https://aman-food-price-intelligence-v2-e8c3mfcsgevy4qteqfmebd.streamlit.app/)
 - **WellSit**: project built in the InnovEgypt program (ITIDA / TIEC), Summer 2026.
-- **NASA Space Apps 2026**: Martian Map, built with my team.
+- **NASA Space Apps 2026**: Martian Map, built with my team. [Repo](https://github.com/Abodawoud/Nasa-Challenge-Martian-Map) | [Live demo](https://nasa-challenge-martian-map.vercel.app/)
 
 ## Tech
 
