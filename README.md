@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman Zayan
 
-<!--
-**studentabdo83-lab/studentabdo83-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI student in Egypt, focused on **machine learning and computer vision**. Accepted to the NTI **Deep Learning for Computer Vision** track.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AMAN (Food Price Intelligence)**: an end-to-end ML platform that audits and forecasts food prices across 23 Egyptian governorates, with a bilingual Streamlit dashboard. Built as an NTI capstone with a team.
+  [Repo](https://github.com/studentabdo83-lab/aman-food-price-intelligence-v2) | [Live demo](https://aman-food-price-intelligence-v2-e8c3mfcsgevy4qteqfmebd.streamlit.app/)
+- **WellSit**: project built in the InnovEgypt program (ITIDA / TIEC), Summer 2026.
+- **NASA Space Apps 2026**: Martian Map, built with my team.
+
+## Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B0?logo=css3&logoColor=white)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-zayan/)
